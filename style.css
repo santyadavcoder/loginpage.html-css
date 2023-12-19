@@ -1,0 +1,80 @@
+body{
+    background-image: url(https://images.unsplash.com/photo-1465156799763-2c087c332922?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fG1vcm5pbmclMjB2aWV3fGVufDB8fDB8fHww);
+    background-size: cover;
+  
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    width: 350px;
+    height: 320px;
+    border: 2px solid black;
+    align-items: center;
+    margin: auto;
+    margin-top: 50px;
+    background-color: rgba(0, 0, 0, 0.4);
+    color: white;
+    border-radius: 30px;
+    
+
+}
+#head{
+    border-bottom: solid;
+    padding: 12px;
+    background: transparent;
+}
+.mail{
+    background-color: rgba(0, 0, 0, 0.4);
+    padding: 4px;
+    width: 190px;
+    height: 14px;
+    box-shadow: inset rgba(0, 0, 0, 0.4);
+    color: rgba(0, 0, 0, 0.4);
+    border-radius: 20px;
+    margin-top: 20px;
+    border: none;
+    font-size: larger;
+    color: white;
+ 
+   
+    
+
+}
+button{
+    background-color: rgba(0, 0, 0, 0.4);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100px;
+    height: 20px;
+    color:white;
+    border-radius: 20px;
+    margin-top: 10px;
+    border: none;
+    padding: 15px;
+    cursor: pointer;
+    box-shadow: inset green;
+    
+    
+
+    
+}
+#naam{
+    background-color: rgba(0, 0, 0, 0.4);
+    margin-top: 20px;
+    color: whitesmoke;
+    border: 1px solid;
+    padding: 6px;
+    border: none;
+    border-radius: 24px;
+    background: transparent;
+}
+h5{
+    background-color: rgba(0, 0, 0, 0.4);
+    border: none;
+    border-bottom: 2px solid;
+    box-sizing: border-box;
+    border-radius: 25px;
+    background: transparent;
+}
